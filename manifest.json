@@ -1,0 +1,12 @@
+{
+  "name": "edgyhub",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "i hate rounded edges",
+  "content_scripts": [
+    {
+      "matches": ["*://github.com/*"],
+      "css": ["main.css"]
+    }
+  ]
+}
