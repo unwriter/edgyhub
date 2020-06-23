@@ -2,6 +2,8 @@
 
 Say no to rounded edges on GitHub
 
+![screenshot](screenshot.png)
+
 # Usage
 
 1. Open [chrome://extensions/](chrome://extensions/)
